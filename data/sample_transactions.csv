@@ -1,0 +1,9 @@
+transaction_id,amount,transaction_type,fraud
+1001,25.50,online,0
+1002,8500.00,online,1
+1003,75.25,store,0
+1004,4200.00,online,1
+1005,45.00,store,0
+1006,125.75,online,0
+1007,9200.00,online,1
+1008,32.50,store,0
